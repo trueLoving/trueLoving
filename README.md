@@ -4,10 +4,13 @@ My name is Re Star, a college student in Hangzhou,China, aimed to be a Full-Stac
 
 If you have some project that are interesting, you can contact me by email(I will try my best to do it!)
 
+### state
 
-### state on github (maybe it not so good)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=trueLoving&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=trueLoving)](https://github.com/anuraghazra/github-readme-stats)
+### language
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trueLoving&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Skills & Tools
 ![](https://img.shields.io/badge/tools-vscode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
