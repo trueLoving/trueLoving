@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**trueLoving/trueLoving** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Re Star, a college student in Hangzhou,China, aimed to be a Full-Stack engineer. And I want to make the most of myself here. I'm currently working on developing Low-Code Development base on vue2.x. also learning  Micro front end(Now are exploring Single-Spa). I'm looking for help with joining a public project to improve myself. And I want to do some interesting things that maybe can change the world. 
 
-Here are some ideas to get you started:
+If you have some project that are interesting, you can contact me by email(I will try my best to do it!)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### state on github (maybe it not so good)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=trueLoving)](https://github.com/anuraghazra/github-readme-stats)
+
+### Skills & Tools
+![](https://img.shields.io/badge/tools-vscode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/tools-idea-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/skills-vue-informational?style=flat&logo=Vue.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/skills-node-informational?style=flat&logo=Node.js&logoColor=white&color=2bbc8a)
+
+### Contact
+
+email: starsky.zhanglinjie@gmail.com
