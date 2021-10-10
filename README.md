@@ -2,7 +2,7 @@
 
 
 <a href="https://app.daily.dev/Re_star">
-  <img src="https://api.daily.dev/devcards/f6f0621e740c48fbbbf059dcada26305.png?r=n17" width="300" alt="Re_star's Dev Card" align="right"/>
+  <img src="https://github.com/trueLoving/trueLoving/blob/master/devcard.svg"" width="300" alt="Re_star's Dev Card" align="right"/>
 </a>
 
 ### Language
