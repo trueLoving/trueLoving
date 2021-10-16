@@ -1,4 +1,4 @@
-<h2 >洗心革面，重新做人</h2>
+<h2 >壊れた美しさ</h2>
 
 
 <a href="https://app.daily.dev/Re_star">
