@@ -1,5 +1,6 @@
-<h2 >Elegant and timeless</h2>
+![ (26)](https://user-images.githubusercontent.com/44056372/142734441-3d9e48d7-3fd6-471a-902d-b5e3000e58ac.jpg)
 
+<div color="red">Elegant and timeless</div>
 
 <a href="https://app.daily.dev/Re_star">
   <img src="https://github.com/trueLoving/trueLoving/blob/master/devcard.svg"" width="300" alt="Re_star's Dev Card" align="right"/>
