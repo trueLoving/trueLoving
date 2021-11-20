@@ -5,6 +5,14 @@
 <a href="https://app.daily.dev/Re_star">
   <img src="https://github.com/trueLoving/trueLoving/blob/master/devcard.svg"" width="300" alt="Re_star's Dev Card" align="right"/>
 </a>
+                                                                                                        
+                                                                                                       
+
+### <img src="https://raw.githubusercontent.com/trueLoving/trueLoving/17610419b149cf7caaeabd62f5f17ef657959c31/sakura.svg"/>  Introduce
+                                                                                                        
+
+                                                                                                        
+FrontEnd Enginner
 
 ### Language
 
