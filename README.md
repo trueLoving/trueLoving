@@ -2,30 +2,43 @@
 
 <img src="https://raw.githubusercontent.com/trueLoving/trueLoving/f707e702a70ea64686251619219f5a82b7167695/test.svg"/>
 
-<a href="https://app.daily.dev/Re_star">
-  <img src="https://github.com/trueLoving/trueLoving/blob/master/devcard.svg"" width="300" alt="Re_star's Dev Card" align="right"/>
-</a>
+## <img src="https://raw.githubusercontent.com/trueLoving/trueLoving/eabbe7696dcac03a2a720fc3d3fd37d68123c994/sakura.svg"/>  Me
                                                                                                         
-                                                                                                       
-
-### <img src="https://raw.githubusercontent.com/trueLoving/trueLoving/17610419b149cf7caaeabd62f5f17ef657959c31/sakura.svg"/>  Introduce
+```js
+export default () => ({
+  pronouns: "He" | "Him",
+  technologies: {
+    frameworks: ["vue", "element"],
+    backEnd: ["Nodejs"],
+    languages: ["JavaScript", "Rust"]
+  },
+  about: "Loving things that are interesting and can change the world "
+})                                                                                                   
+```
                                                                                                         
+## <img src="https://raw.githubusercontent.com/trueLoving/trueLoving/eabbe7696dcac03a2a720fc3d3fd37d68123c994/sakura.svg"/> Github Overview
 
-                                                                                                        
-FrontEnd Enginner
-
-### Language
+<img align="left" alt="trueLoving's Github Stats" src="https://github-readme-stats.vercel.app/api?username=trueLoving&show_icons=true" /> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trueLoving&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### Skills & Tools
+## <img src="https://raw.githubusercontent.com/trueLoving/trueLoving/eabbe7696dcac03a2a720fc3d3fd37d68123c994/sakura.svg"/>  Tools & Skills
 
-![](https://img.shields.io/badge/tools-vscode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/skills-vue-informational?style=flat&logo=Vue.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/skills-node-informational?style=flat&logo=Node.js&logoColor=white&color=2bbc8a)
+- 🌐 &#160; 
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust&logoColor=blue)
 
-### Contact
+- 🚧 &#160;
+![Vue.js](https://img.shields.io/badge/-VueJS-333333?style=flat&logo=Vue.js)
+![ElementUI](https://img.shields.io/badge/-ElementUI-333333?style=flat&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+Cjxzdmcgd2lkdGg9IjMwcHgiIGhlaWdodD0iMzBweCIgdmlld0JveD0iMCAwIDM4IDQ4IiB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPgogICAgPCEtLSBHZW5lcmF0b3I6IFNrZXRjaCA0MCAoMzM3NjIpIC0gaHR0cDovL3d3dy5ib2hlbWlhbmNvZGluZy5jb20vc2tldGNoIC0tPgogICAgPHRpdGxlPlNoYXBlIENvcHk8L3RpdGxlPgogICAgPGRlc2M+Q3JlYXRlZCB3aXRoIFNrZXRjaC48L2Rlc2M+CiAgICA8ZGVmcz48L2RlZnM+CiAgICA8ZyBpZD0idjIuMi4wIiBzdHJva2U9Im5vbmUiIHN0cm9rZS13aWR0aD0iMSIgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj4KICAgICAgICA8ZyBpZD0i6aaW6aG1Lem7mOiupOaViOaenC1jb3B5LTIiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC03MC4wMDAwMDAsIC0xOS4wMDAwMDApIiBmaWxsPSIjNDA5RUZGIj4KICAgICAgICAgICAgPHBhdGggZD0iTTIxMi4xMzU0NDEsNDUuMTU3ODA3NyBaIE0xMDMuNDE2NTAyLDQ2LjIxNzU1MTEgQzEwMy40MDcwMDgsNDcuNzk0NTY4MiAxMDIuNTg3ODQxLDQ4LjE0NjM0NzQgMTAyLjU4Nzg0MSw0OC4xNDYzNDc0IEMxMDIuNTg3ODQxLDQ4LjE0NjM0NzQgODguNDUyMDQ3OCw1Ni4zMTQ1MDg3IDg3LjUzMjk5NTYsNTYuODI2Mjc1MSBDODYuNjIyMzM2LDU3LjIxNzE1NjEgODYuMDEzNjcwMyw1Ni44MjYyNzUxIDg2LjAxMzY3MDMsNTYuODI2Mjc1MSBDODYuMDEzNjcwMyw1Ni44MjYyNzUxIDcxLjIyMjU3MDYsNDguMjQ3OTU3MiA3MC42ODI2OTYyLDQ3Ljg3MDg0NDQgQzcwLjE0MjY4NDMsNDcuNDkzNzMxNiA3MC4xMzAxNjQzLDQ2LjkwNjM3NzQgNzAuMTMwMTY0Myw0Ni45MDYzNzc0IEM3MC4xMzAxNjQzLDQ2LjkwNjM3NzQgNzAuMTQ1MDIzMiwyOS45MTk5MTc0IDcwLjEzMDE2NDMsMjkuMTMzMzM2NCBDNzAuMTE1MzA1MywyOC4zNDY2MTc3IDcxLjA5Njk1NzYsMjcuNzU1NTQ2MSA3MS4wOTY5NTc2LDI3Ljc1NTU0NjEgTDg1Ljg3NTUzNzMsMTkuMjEzNDM4NyBDODYuNzg1MzcxNCwxOC43MzMyMDE2IDg3LjY3MTEyODYsMTkuMjEzNDM4NyA4Ny42NzExMjg2LDE5LjIxMzQzODcgQzg3LjY3MTEyODYsMTkuMjEzNDM4NyAxMDAuNzI2NjIzLDI2LjgwMjA5MzcgMTAyLjE3MzQ0MiwyNy42MTc3MjU3IEMxMDMuNTkxNTA3LDI4LjI5MTk1NzcgMTAzLjQxNjUwMiwyOS42ODQzNDI0IDEwMy40MTY1MDIsMjkuNjg0MzQyNCBDMTAzLjQxNjUwMiwyOS42ODQzNDI0IDEwMy40MjUzMDcsNDQuNzUxOTE5MiAxMDMuNDE2NTAyLDQ2LjIxNzU1MTEgTDEwMy40MTY1MDIsNDYuMjE3NTUxMSBaIE05Ny41MTYwMTA1LDI5LjE2OTEzMzkgQzk0LjQ5MDAxNzMsMjcuNDI3NDQ4MyA4Ny4zNjE1ODQyLDIzLjI5NzEwNjMgODcuMzYxNTg0MiwyMy4yOTcxMDYzIEM4Ny4zNjE1ODQyLDIzLjI5NzEwNjMgODYuNjY2MTAzOSwyMi45MjEyMzI2IDg1Ljk1MTc3NDcsMjMuMjk3MTA2MyBMNzQuMzQ4NzQwNiwyOS45ODIxNSBDNzQuMzQ4NzQwNiwyOS45ODIxNSA3My41NzgwMDI1LDMwLjQ0NDkwMTQgNzMuNTg5Njk3LDMxLjA2MDQ4MDUgQzczLjYwMTM5MTUsMzEuNjc2MDU5NyA3My41ODk2OTcsNDQuOTY5ODcwOCA3My41ODk2OTcsNDQuOTY5ODcwOCBDNzMuNTg5Njk3LDQ0Ljk2OTg3MDggNzMuNTk5NDY1NCw0NS40Mjk1OTMyIDc0LjAyMzQ5NTEsNDUuNzI0NjQ3MiBDNzQuNDQ3Mzg3Myw0Ni4wMTk3MDExIDg2LjA2MDE4OTgsNTIuNzMzMjQ1MSA4Ni4wNjAxODk4LDUyLjczMzI0NTEgQzg2LjA2MDE4OTgsNTIuNzMzMjQ1MSA4Ni41MzgxNTIsNTMuMDM5MTc1OSA4Ny4yNTMwMzE1LDUyLjczMzI0NTEgQzg3Ljk3NDY1MjYsNTIuMzMyNzI2MiA5OS4wNzMwMzM1LDQ1Ljk0MDI1ODIgOTkuMDczMDMzNSw0NS45NDAyNTgyIEM5OS4wNzMwMzM1LDQ1Ljk0MDI1ODIgOTkuNzE2MjMyNSw0NS42NjQ4OTI5IDk5LjcyMzY2MTksNDQuNDMwNzA1NiBDOTkuNzI1NzI1Nyw0NC4wNzQ3OTU5IDk5LjcyNjU1MTIsNDIuNjkzMjg4MSA5OS43MjY2ODg3LDQwLjk1NzUyMjkgTDg2LjY2MDA1MDIsNDguODc1MjM5NCBMODYuNjYwMDUwMiw0NS44NDYyMjEgQzg2LjY2MDA1MDIsNDQuNjAyMTIwNSA4Ny42MjMxMjg5LDQzLjc4MDk4MTEgODcuNjIzMTI4OSw0My43ODA5ODExIEw5OS4xODA3NjA3LDM2LjgxNjU3OTMgQzk5LjYxNjg5NzgsMzYuMzYxMTI1MSA5OS43MDY4NzY4LDM1LjYzMTU0NDcgOTkuNzI1NDUwNSwzNS4zNTU2Mjg3IEM5OS43MjUwMzc4LDM0LjA5MDQ2MjcgOTkuNzI0NDg3NCwzMi45ODUyODQxIDk5LjcyNDA3NDcsMzIuMjg1MTY3OCBMODYuNjYwMDUwMiw0MC4yMDEyMzIxIEw4Ni42NjAwNTAyLDM3LjAzNDUzMSBDODYuNjYwMDUwMiwzNS43OTA0MzA1IDg3LjQ4NTU0NjIsMzUuMjQ0NjU2NCA4Ny40ODU1NDYyLDM1LjI0NDY1NjQgTDk3LjUxNjAxMDUsMjkuMTY5MTMzOSBaIiBpZD0iU2hhcGUtQ29weSI+PC9wYXRoPgogICAgICAgIDwvZz4KICAgIDwvZz4KPC9zdmc+&logoColor=blue)
 
-email: starsky.zhanglinjie@gmail.com
+- 🔧 &#160;
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+![Code](https://img.shields.io/badge/-Code-333333?style=flat&logo=visualstudiocode&logoColor=blue)
 
+## <img src="https://raw.githubusercontent.com/trueLoving/trueLoving/eabbe7696dcac03a2a720fc3d3fd37d68123c994/sakura.svg"/> Contact
 
+Email: starsky.zhanglinjie@gmail.com
