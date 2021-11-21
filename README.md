@@ -1,4 +1,4 @@
-![ (26)](https://user-images.githubusercontent.com/44056372/142734441-3d9e48d7-3fd6-471a-902d-b5e3000e58ac.jpg)
+![ (226)](https://user-images.githubusercontent.com/44056372/142749102-daee6e8b-dde0-4097-bc98-1a6e4d958485.jpg)
 
 <img src="https://raw.githubusercontent.com/trueLoving/trueLoving/f707e702a70ea64686251619219f5a82b7167695/test.svg"/>
 
@@ -12,6 +12,7 @@ export default () => ({
     backEnd: ["Nodejs"],
     languages: ["JavaScript", "Rust"]
   },
+  architecture: ["microfrontend", "design pattern", "program paradigm", "algorithm"],
   about: "Loving things that are interesting and can change the world "
 })                                                                                                   
 ```
