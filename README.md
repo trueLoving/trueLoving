@@ -22,7 +22,7 @@ export default () => ({
 
 <img align="left" alt="trueLoving's Github Stats" src="https://github-readme-stats.vercel.app/api?username=trueLoving&show_icons=true" /> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trueLoving&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img alt="trueLoving's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trueLoving&layout=compact" /> 
 
 ## <img src="https://raw.githubusercontent.com/trueLoving/trueLoving/eabbe7696dcac03a2a720fc3d3fd37d68123c994/sakura.svg"/>  Tools & Skills
 
