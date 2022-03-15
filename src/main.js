@@ -2,7 +2,7 @@ const path = require('path')
 const fs = require('fs-extra')
 const dayjs = require('dayjs')
 
-const testMdPath = path.join(process.cwd(), 'src', 'test.md')
+const testMdPath = path.join(process.cwd(), 'README.md')
 
 fs.writeFile(testMdPath, `${dayjs().format()}`).then(res => {
   console.log('write successfully!!!')
