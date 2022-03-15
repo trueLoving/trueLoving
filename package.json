@@ -19,5 +19,8 @@
   "homepage": "https://github.com/trueLoving/trueLoving#readme",
   "devDependencies": {
     "fs-extra": "^10.0.1"
+  },
+  "dependencies": {
+    "dayjs": "^1.11.0"
   }
 }
