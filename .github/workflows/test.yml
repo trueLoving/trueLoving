@@ -1,6 +1,12 @@
 name: learn-github-workflow
 
-on: [push]
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 0 * * *"
 
 jobs:
   check-bats-version:
