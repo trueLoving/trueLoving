@@ -1,0 +1,23 @@
+{
+  "name": "trueloving",
+  "version": "1.0.0",
+  "description": "![ (226)](https://user-images.githubusercontent.com/44056372/142749102-daee6e8b-dde0-4097-bc98-1a6e4d958485.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node src/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trueLoving/trueLoving.git"
+  },
+  "keywords": [],
+  "author": "star sky",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/trueLoving/trueLoving/issues"
+  },
+  "homepage": "https://github.com/trueLoving/trueLoving#readme",
+  "devDependencies": {
+    "fs-extra": "^10.0.1"
+  }
+}
