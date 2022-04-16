@@ -1,6 +1,13 @@
 <svg t="1637431486159" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="2497" width="32"
   height="32">
-  <animateTransform attributeType="xml" attributeName="transform" type="rotate" from="0 1 1" to="360 1 1" dur="3s" fill="freeze"
+  <animateTransform 
+    attributeType="xml" 
+    attributeName="transform" 
+    type="rotate" 
+    from="0 1 1" 
+    to="360 1 1" 
+    dur="3s" 
+    fill="freeze"
     repeatCount="indefinite" />
   <path
     d="M511.98406339 633.68974867m-20.31579308 0a20.31579309 20.31579309 0 1 0 40.63158615 0 20.31579309 20.31579309 0 1 0-40.63158615 0Z"
