@@ -1,7 +1,7 @@
 ![01PNG](./BINARY/01.png)
 
-## <img src="./svg/circle.svg"/>  Me
-                                                                                                        
+## <img src="./svg/star.svg"/>  Me
+                                                                                      
 ```js
 export default () => ({
   pronouns: "He" | "Him",
