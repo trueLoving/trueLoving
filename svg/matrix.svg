@@ -1,0 +1,15 @@
+<!-- copy from https://codepen.io/catcode/pen/JjZXMO -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 30 30" enable-background="new 0 0 16 16" xml:space="preserve" width="16" height="16">
+  <rect fill="#FBBA44" width="10" height="10">
+    <animateTransform attributeName="transform" attributeType="XML" type="translate" dur="1.7s" values="0,0;10,0;10,10;0,10;0,0;" repeatCount="indefinite"/>
+  </rect>
+  <rect x="10" fill="#E84150" width="10" height="10">
+    <animateTransform attributeName="transform" attributeType="XML" type="translate" dur="1.7s" values="0,0;0,10;-10,10;-10,0;0,0;" repeatCount="indefinite"/>
+  </rect>
+  <rect x="10" y="10" fill="#62B87B" width="10" height="10">
+    <animateTransform attributeName="transform" attributeType="XML" type="translate" dur="1.7s" values="0,0;-10,0;-10,-10;0,-10;0,0;" repeatCount="indefinite"/>
+  </rect>
+  <rect y="10" fill="#2F6FB6" width="10" height="10">
+    <animateTransform attributeName="transform" attributeType="XML" type="translate" dur="1.7s" values="0,0;0,-10;10,-10;10,0;0,0;" repeatCount="indefinite"/>
+  </rect>
+</svg>
