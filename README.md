@@ -1,6 +1,6 @@
 ![01PNG](./BINARY/01.png)
 
-## <img src="./svg/star.svg"/>  Me
+## <img src="./svg/circle.svg"/>  Me
                                                                                                         
 ```js
 export default () => ({
