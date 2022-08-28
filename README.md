@@ -6,13 +6,13 @@
 export default () => ({
   pronouns: "He" | "Him",
   technologies: {
-    frameworks: ["vue", "element"],
+    frameworks: ["vue"],
     backEnd: ["Nodejs"],
-    languages: ["JavaScript", "Rust"]
+    languages: ["JavaScript", "HTML","CSS","Rust"]
   },
-  architecture: ["microfrontend", "design pattern", "program paradigm", "algorithm"],
-  about: "Loving things that are interesting and can change the world ",
-  learning: ["svg", "gsap", "vite", "snowpack"]
+  architecture: ["design pattern", "program paradigm", "algorithm"],
+  about: "looking to make something can influence even change the world ~~~///(^v^)\\\~~~",
+  learning: ["vue", "vite", "astro", "Rust"]
 })                                                                                                   
 ```
                                                                                                     
