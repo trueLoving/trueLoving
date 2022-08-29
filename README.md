@@ -12,7 +12,7 @@ export default () => ({
   },
   architecture: ["design pattern", "program paradigm", "algorithm"],
   about: "looking to make something can influence even change the world ~~~///(^v^)\\\~~~",
-  learning: ["vue", "vite", "astro", "Rust"]
+  learning: ["vue", "vite", "astro", "Rust", "web3,0"]
 })                                                                                                   
 ```
                                                                                                     
