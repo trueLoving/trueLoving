@@ -11,14 +11,16 @@
 ## <img src="./svg/sakura.svg"/>  Me
 
 - 🔭 I’m currently researching native web build tools and game development
-- 💬 Brainstorm with me over tech, web, career, and anime 
+- 💬 Brainstorm with me over tech, web, game develop, and anime 
 - 📫 How to reach me: starsky.zhanglinjie@gmail.com
 - 😄 Pronouns: Programmer/His/He
 - 📝 [Resume](#)
 
 ## <img src="./svg/sakura.svg"/>  Github Stats
 
-<img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=trueLoving">
+<p align="center">
+  <img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=trueLoving">
+</p>
 
 ## <img src="./svg/sakura.svg"/>  Tools & Skills
 
