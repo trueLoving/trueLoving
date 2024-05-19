@@ -10,19 +10,11 @@
 
 ## <img src="./svg/sakura.svg"/>  Me
 
-```js
-export default () => ({
-  pronouns: "He" | "Him",
-  technologies: {
-    frameworks: ["vue"],
-    backEnd: ["Nodejs"],
-    languages: ["JavaScript", "HTML","CSS","Rust"]
-  },
-  architecture: ["design pattern", "program paradigm", "algorithm"],
-  about: "looking to make something can influence even change the world ~~~///(^v^)\\\~~~",
-  learning: ["vue", "vite", "astro", "Rust", "web3,0"]
-})                                                                                                   
-```
+- 🔭 I’m currently researching native web build tools and game development
+- 💬 Brainstorm with me over tech, web, career, and anime 
+- 📫 How to reach me: starsky.zhanglinjie@gmail.com
+- 😄 Pronouns: Programmer/His/He
+- 📝 [Resume](#)
 
 ## <img src="./svg/sakura.svg"/>  Github Stats
 
@@ -41,10 +33,8 @@ export default () => ({
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 ![Code](https://img.shields.io/badge/-Code-333333?style=flat&logo=visualstudiocode&logoColor=blue)
 
-## <img src="./svg/sakura.svg"/> Contact
-Email: starsky.zhanglinjie@gmail.com
-
-<!--<a href="https://t.me/moepoi" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40moepoi-28a8ea"></a>
+<!-- ## <img src="./svg/sakura.svg"/> Contact
+<a href="https://t.me/moepoi" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40moepoi-28a8ea"></a>
 <a rel="me" href="https://moe.onl/@moepoi" target="_blank"><img src="https://img.shields.io/badge/Mastodon-%40moepoi-blueviolet"></a>
 <a href="https://linkedin.com/in/moepoi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-moepoi-informational"></a>
 <a href="https://moepoi.dev" target="_blank"><img src="https://img.shields.io/badge/Personal%20Site-moepoi.dev-red"></a>
