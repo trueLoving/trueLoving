@@ -25,6 +25,8 @@
   <br/>
   <img src="https://media.giphy.com/media/jsDjZI28Qe8qeKXSMM/giphy.gif?cid=ecf05e47nvjbv1vsmn9rueqovgmtcbryqhqy4uq173f8k1tq&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="195"/>
   <img src="https://media.giphy.com/media/IyrFAxmz6D3VPyqYGe/giphy.gif?cid=ecf05e47jr00qiphe632zsglhcadcn4xotp9pojcpf4mpbzt&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="195"/>
+   <img src="https://media.giphy.com/media/bJHQrtuP64YnvrupGC/giphy.gif?cid=ecf05e47h4ogwcnat1gbapevwz0o3nocfbvxwmlh5i121he1&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="195"/>
+  <img src="https://media.giphy.com/media/In6KRe3ns0XyNIvqLJ/giphy.gif?cid=ecf05e47h4ogwcnat1gbapevwz0o3nocfbvxwmlh5i121he1&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="195"/>
 </p>
 
 ## <img src="./svg/sakura.svg"/>  Tools & Skills
