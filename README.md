@@ -21,8 +21,9 @@
 ## <img src="./svg/sakura.svg"/>  Github Stats
 
 <p align="center">
-  <img src="https://media.giphy.com/media/jsDjZI28Qe8qeKXSMM/giphy.gif?cid=ecf05e47nvjbv1vsmn9rueqovgmtcbryqhqy4uq173f8k1tq&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="195"/>
   <img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=trueLoving">
+  <br/>
+  <img src="https://media.giphy.com/media/jsDjZI28Qe8qeKXSMM/giphy.gif?cid=ecf05e47nvjbv1vsmn9rueqovgmtcbryqhqy4uq173f8k1tq&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="195"/>
   <img src="https://media.giphy.com/media/IyrFAxmz6D3VPyqYGe/giphy.gif?cid=ecf05e47jr00qiphe632zsglhcadcn4xotp9pojcpf4mpbzt&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="195"/>
 </p>
 
