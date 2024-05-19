@@ -26,15 +26,12 @@ export default () => ({
 
 ## <img src="./svg/sakura.svg"/>  Tools & Skills
 
-- 🌐 &#160; 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust&logoColor=blue)
-
-- 🚧 &#160;
 ![Vue.js](https://img.shields.io/badge/-VueJS-333333?style=flat&logo=Vue.js)
-
-- 🔧 &#160;
+![Webpack](https://img.shields.io/badge/-Webpack-333333?style=flat&logo=Webpack)
+![Vite](https://img.shields.io/badge/-Vite-333333?style=flat&logo=Vite)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
