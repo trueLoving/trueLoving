@@ -1,18 +1,30 @@
-![01PNG](./BINARY/03.jpg)
 
-Hello World! :sunglasses:
+<div align="middle">
+<img src="./BINARY/03.jpg" width="600" >
+
+</div>
+
+## <img src="./svg/sakura.svg"/>  Me
+
+```js
+export default () => ({
+  pronouns: "He" | "Him",
+  technologies: {
+    frameworks: ["vue"],
+    backEnd: ["Nodejs"],
+    languages: ["JavaScript", "HTML","CSS","Rust"]
+  },
+  architecture: ["design pattern", "program paradigm", "algorithm"],
+  about: "looking to make something can influence even change the world ~~~///(^v^)\\\~~~",
+  learning: ["vue", "vite", "astro", "Rust", "web3,0"]
+})                                                                                                   
+```
 
 ## <img src="./svg/sakura.svg"/>  Github Stats
 
-<details>
-<summary>:trophy: Details</summary>
 <img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=trueLoving">
-</details>
 
 ## <img src="./svg/sakura.svg"/>  Tools & Skills
-
-<details>
-<summary>:trophy: Details</summary>
 
 - 🌐 &#160; 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript)
@@ -27,8 +39,6 @@ Hello World! :sunglasses:
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 ![Code](https://img.shields.io/badge/-Code-333333?style=flat&logo=visualstudiocode&logoColor=blue)
-
-</details>
 
 ## <img src="./svg/sakura.svg"/> Contact
 Email: starsky.zhanglinjie@gmail.com
