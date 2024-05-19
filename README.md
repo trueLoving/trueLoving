@@ -5,9 +5,9 @@
 </h1>
 
 <div align="middle">
-<img src="https://media.giphy.com/media/MXoEoAUeBXapi/giphy.gif?cid=ecf05e47k1kxnrzef667zz8am74qneb4ficnrytfy00m76sd&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
-  
- <!-- <img src="./BINARY/03.jpg" width="600" >-->
+   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=790b7611kf3q2gjyujxjoxr2esgcwytus3gumd2vwf2kxxk6&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
+  <!--<img src="https://media.giphy.com/media/MXoEoAUeBXapi/giphy.gif?cid=ecf05e47k1kxnrzef667zz8am74qneb4ficnrytfy00m76sd&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
+  <img src="./BINARY/03.jpg" width="600" >-->
 </div>
 
 ## <img src="./svg/sakura.svg"/>  Me
@@ -17,7 +17,6 @@
 - 📫 How to reach me: starsky.zhanglinjie@gmail.com
 - 😄 Pronouns: Programmer/His/He
 - 📝 [Resume](#)
-
 
 ## <img src="./svg/sakura.svg"/>  Github Stats
 
@@ -32,6 +31,7 @@
   ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust&logoColor=blue)
   ![Vue.js](https://img.shields.io/badge/-VueJS-333333?style=flat&logo=Vue.js)
   ![Webpack](https://img.shields.io/badge/-Webpack-333333?style=flat&logo=Webpack)
+  ![Rollup](https://img.shields.io/badge/-Rollup-333333?style=flat&logo=Rollup)
   ![Vite](https://img.shields.io/badge/-Vite-333333?style=flat&logo=Vite)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
