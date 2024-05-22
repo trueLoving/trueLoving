@@ -50,7 +50,6 @@
 ![Code](https://img.shields.io/badge/-Code-333333?style=flat&logo=visualstudiocode)
 ![docker](https://img.shields.io/badge/-docker-333333?style=flat&logo=docker)
 ![mysql](https://img.shields.io/badge/-mysql-333333?style=flat&logo=mysql)
-![docker](https://img.shields.io/badge/-docker-333333?style=flat&logo=docker)
 ![astro](https://img.shields.io/badge/-astro-333333?style=flat&logo=astro)
 ![next.js](https://img.shields.io/badge/-next.js-333333?style=flat&logo=nextdotjs)
 ![nestjs](https://img.shields.io/badge/-nestjs-333333?style=flat&logo=nestjs)
