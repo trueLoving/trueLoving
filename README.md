@@ -21,11 +21,13 @@
 ## <img src="./svg/sakura.svg"/>  Github Stats
 
 <p align="center">
+  <img src="https://media.giphy.com/media/jsDjZI28Qe8qeKXSMM/giphy.gif?cid=ecf05e47nvjbv1vsmn9rueqovgmtcbryqhqy4uq173f8k1tq&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="170"/>
   <img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=trueLoving">
+  <img src="https://media.giphy.com/media/IyrFAxmz6D3VPyqYGe/giphy.gif?cid=ecf05e47jr00qiphe632zsglhcadcn4xotp9pojcpf4mpbzt&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="170"/>
   <br/>
-  <img src="https://media.giphy.com/media/jsDjZI28Qe8qeKXSMM/giphy.gif?cid=ecf05e47nvjbv1vsmn9rueqovgmtcbryqhqy4uq173f8k1tq&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="195"/>
-  <img src="https://media.giphy.com/media/IyrFAxmz6D3VPyqYGe/giphy.gif?cid=ecf05e47jr00qiphe632zsglhcadcn4xotp9pojcpf4mpbzt&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="195"/>
-   <img src="https://media.giphy.com/media/bJHQrtuP64YnvrupGC/giphy.gif?cid=ecf05e47h4ogwcnat1gbapevwz0o3nocfbvxwmlh5i121he1&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="195"/>
+  <img src="https://media.giphy.com/media/vwfu3oN2vM0Flq1x4e/giphy.gif?cid=ecf05e479bxcqifbqr26vrnkqgbia35e0zoda1isw62fot41&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="195"/>
+  <img src="https://media.giphy.com/media/FvifCjWwJuTJuYLsDA/giphy.gif?cid=ecf05e47i7u4g5k5f3bfvba3sov7yhhg3cabgbruhekzsv2m&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="195"/>
+  <img src="https://media.giphy.com/media/bJHQrtuP64YnvrupGC/giphy.gif?cid=ecf05e47h4ogwcnat1gbapevwz0o3nocfbvxwmlh5i121he1&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="195"/>
   <img src="https://media.giphy.com/media/In6KRe3ns0XyNIvqLJ/giphy.gif?cid=ecf05e47h4ogwcnat1gbapevwz0o3nocfbvxwmlh5i121he1&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="195"/>
 </p>
 
