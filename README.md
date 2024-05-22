@@ -22,7 +22,7 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/jsDjZI28Qe8qeKXSMM/giphy.gif?cid=ecf05e47nvjbv1vsmn9rueqovgmtcbryqhqy4uq173f8k1tq&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="170"/>
-  <img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=trueLoving">
+  <img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=trueLoving" height="170">
   <img src="https://media.giphy.com/media/IyrFAxmz6D3VPyqYGe/giphy.gif?cid=ecf05e47jr00qiphe632zsglhcadcn4xotp9pojcpf4mpbzt&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="170"/>
   <br/>
   <img src="https://media.giphy.com/media/vwfu3oN2vM0Flq1x4e/giphy.gif?cid=ecf05e479bxcqifbqr26vrnkqgbia35e0zoda1isw62fot41&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="195"/>
