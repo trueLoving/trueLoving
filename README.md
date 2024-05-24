@@ -21,6 +21,11 @@
 ## <img src="./svg/sakura.svg"/>  Github Stats
 
 <p align="center">
+  <img src="https://media.giphy.com/media/bJHQrtuP64YnvrupGC/giphy.gif?cid=ecf05e47h4ogwcnat1gbapevwz0o3nocfbvxwmlh5i121he1&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="195"/>
+  <img src="https://media.giphy.com/media/In6KRe3ns0XyNIvqLJ/giphy.gif?cid=ecf05e47h4ogwcnat1gbapevwz0o3nocfbvxwmlh5i121he1&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="195"/>
+  <img src="https://media.giphy.com/media/HFmu1MFEmOudG95snb/giphy.gif?cid=ecf05e475qzkhoiywyby4mtpx435gacymt0auye1hb8bguyf&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="195"/>
+  <img src="https://media.giphy.com/media/54EEL2kV9YjsZDugMp/giphy.gif?cid=ecf05e475qzkhoiywyby4mtpx435gacymt0auye1hb8bguyf&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="195"/>
+  <br/>
   <img src="https://media.giphy.com/media/jsDjZI28Qe8qeKXSMM/giphy.gif?cid=ecf05e47nvjbv1vsmn9rueqovgmtcbryqhqy4uq173f8k1tq&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="170"/>
   <img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=trueLoving" height="170">
   <img src="https://media.giphy.com/media/IyrFAxmz6D3VPyqYGe/giphy.gif?cid=ecf05e47jr00qiphe632zsglhcadcn4xotp9pojcpf4mpbzt&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="170"/>
