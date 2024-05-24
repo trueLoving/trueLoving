@@ -45,7 +45,7 @@
 ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust&logoColor=blue)
 ![Vue.js](https://img.shields.io/badge/-VueJS-333333?style=flat&logo=Vue.js)
 ![Webpack](https://img.shields.io/badge/-Webpack-333333?style=flat&logo=Webpack)
-![Rollup](https://img.shields.io/badge/-Rollup-333333?style=flat&logo=Rollup)
+![Rollup](https://img.shields.io/badge/-Rollup-333333?style=flat&logo=rollupdotjs)
 ![Vite](https://img.shields.io/badge/-Vite-333333?style=flat&logo=Vite)
 ![babel](https://img.shields.io/badge/-babel-333333?style=flat&logo=babel)
 ![postcss](https://img.shields.io/badge/-postcss-333333?style=flat&logo=postcss)
