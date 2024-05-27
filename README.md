@@ -6,8 +6,6 @@
 
 <div align="middle">
    <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=790b7611kf3q2gjyujxjoxr2esgcwytus3gumd2vwf2kxxk6&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
-  <!--<img src="https://media.giphy.com/media/MXoEoAUeBXapi/giphy.gif?cid=ecf05e47k1kxnrzef667zz8am74qneb4ficnrytfy00m76sd&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
-  <img src="./BINARY/03.jpg" width="600" >-->
 </div>
 
 ## <img src="./svg/sakura.svg"/>  Me
@@ -16,7 +14,7 @@
 - 💬 Brainstorm with me over tech, web, game develop, and anime 
 - 📫 How to reach me: starsky.zhanglinjie@gmail.com
 - 😄 Pronouns: Programmer/His/He
-- 📝 [Resume](#)
+- 📝 [Resume](#todo)
 
 ## <img src="./svg/sakura.svg"/>  Github Stats
 
@@ -63,6 +61,7 @@
 ![playwright](https://img.shields.io/badge/-playwright-333333?style=flat&logo=playwright)
 ![deno](https://img.shields.io/badge/-deno-333333?style=flat&logo=deno)
 ![bun](https://img.shields.io/badge/-bun-333333?style=flat&logo=bun)
+
 
 <!-- ## <img src="./svg/sakura.svg"/> Contact
 <a href="https://t.me/moepoi" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40moepoi-28a8ea"></a>
