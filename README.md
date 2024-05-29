@@ -34,6 +34,13 @@
   <img src="https://media.giphy.com/media/In6KRe3ns0XyNIvqLJ/giphy.gif?cid=ecf05e47h4ogwcnat1gbapevwz0o3nocfbvxwmlh5i121he1&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="195"/>
 </p>
 
+## <img src="./svg/sakura.svg"/>  Current Reading
+
+<p align="center">
+  - <a href="https://bigfrontend.dev/">BFE.dev</a>
+  - <a href="https://www.gabrielgambetta.com/computer-graphics-from-scratch/">Computer Graphics from Scratch</a>
+</p>
+
 ## <img src="./svg/sakura.svg"/>  Tools & Skills
 
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
