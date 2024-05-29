@@ -36,10 +36,10 @@
 
 ## <img src="./svg/sakura.svg"/>  Current Reading
 
-<p align="center">
-  - <a href="https://bigfrontend.dev/">BFE.dev</a>
-  - <a href="https://www.gabrielgambetta.com/computer-graphics-from-scratch/">Computer Graphics from Scratch</a>
-</p>
+<ul>
+   <li><a href="https://bigfrontend.dev/">BFE.dev</a></li>
+   <li><a href="https://www.gabrielgambetta.com/computer-graphics-from-scratch/">Computer Graphics from Scratch</a></li>
+</ul>
 
 ## <img src="./svg/sakura.svg"/>  Tools & Skills
 
