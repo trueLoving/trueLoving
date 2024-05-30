@@ -39,6 +39,9 @@
 <ul>
    <li><a href="https://bigfrontend.dev/">BFE.dev</a></li>
    <li><a href="https://www.gabrielgambetta.com/computer-graphics-from-scratch/">Computer Graphics from Scratch</a></li>
+   <li><a href="https://nodeweekly.com/">Node Weekly</a></li>
+   <li><a href="https://javascriptweekly.com/">JavaScript Weekly</a></li>
+
 </ul>
 
 ## <img src="./svg/sakura.svg"/>  Tools & Skills
