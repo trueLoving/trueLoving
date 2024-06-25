@@ -12,7 +12,6 @@
 
 - 🔭 I’m currently researching web technology、frontend engineering and game develop
 - 💬 Brainstorm with me over tech, web, game develop, and anime 
-- 📫 How to reach me: starsky.zhanglinjie@gmail.com
 - 😄 Pronouns: Programmer/His/He
 - 📝 [Resume](#todo)
 
