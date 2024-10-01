@@ -4,6 +4,8 @@
   </a>
 </h1>
 
+![Profile views](https://komarev.com/ghpvc/?username=trueLoving&label=Profile%20views&color=0e75b6&style=flat)
+
 <div align="middle">
    <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=790b7611kf3q2gjyujxjoxr2esgcwytus3gumd2vwf2kxxk6&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 </div>
