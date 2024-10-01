@@ -13,7 +13,7 @@
 - 🔭 I’m currently researching web technology、frontend engineering and game develop
 - 💬 Brainstorm with me over tech, web, game develop, and anime 
 - 😄 Pronouns: Programmer/His/He
-- 📝 [Resume](#todo)
+<!--- 📝 [Resume](#todo) -->
 
 ## <img src="./svg/sakura.svg"/>  Github Stats
 
@@ -33,7 +33,7 @@
   <img src="https://media.giphy.com/media/In6KRe3ns0XyNIvqLJ/giphy.gif?cid=ecf05e47h4ogwcnat1gbapevwz0o3nocfbvxwmlh5i121he1&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="195"/>
 </p>
 
-## <img src="./svg/sakura.svg"/>  Current Reading
+<!-- #### <img src="./svg/sakura.svg"/>  Current Reading
 
 <ul>
    <li><a href="https://bigfrontend.dev/">BFE.dev</a></li>
@@ -41,7 +41,7 @@
    <li><a href="https://nodeweekly.com/">Node Weekly</a></li>
    <li><a href="https://javascriptweekly.com/">JavaScript Weekly</a></li>
 
-</ul>
+</ul> -->
 
 ## <img src="./svg/sakura.svg"/>  Tools & Skills
 
