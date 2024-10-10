@@ -12,7 +12,7 @@
 
 ## <img src="./svg/sakura.svg"/>  Me
 
-- 🔭 I’m currently researching web technology、frontend engineering and game develop
+- 🔭 I’m currently researching web technology、frontend engineering & rust
 - 💬 Brainstorm with me over tech, web, game develop, and anime 
 - 😄 Pronouns: Programmer/His/He
 <!--- 📝 [Resume](#todo) -->
