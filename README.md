@@ -69,7 +69,6 @@
 ![nestjs](https://img.shields.io/badge/-nestjs-333333?style=flat&logo=nestjs)
 ![vitest](https://img.shields.io/badge/-vitest-333333?style=flat&logo=vitest)
 ![jest](https://img.shields.io/badge/-jest-333333?style=flat&logo=jest)
-![playwright](https://img.shields.io/badge/-playwright-333333?style=flat&logo=playwright)
 ![deno](https://img.shields.io/badge/-deno-333333?style=flat&logo=deno)
 ![bun](https://img.shields.io/badge/-bun-333333?style=flat&logo=bun)
 
