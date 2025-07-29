@@ -13,7 +13,7 @@
 
 - 🌧️ Loneliness is my compass  
 - ❤️ A developer navigating through code storms alone  
-- 🎯 Currently focused on: **[Your Project]**  
+- 🎯 Currently focused on: **Rust**,**Web3**,**AI** 
 - 🎨 Fun fact: I create pixel art! ✨  
 
 ---
