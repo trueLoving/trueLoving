@@ -85,15 +85,6 @@
 
 --- -->
 
-## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji/assets/svg/1f4ca.svg" width="24" />　GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trueLoving&show_icons=true&theme=dracula&bg_color=30,FFD6E8,FFEFD6&title_color=FF6B9A&icon_color=FF6B9A&border_radius=10" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trueLoving&layout=compact&theme=dracula&bg_color=30,FFEFD6,FFD6E8&title_color=FF6B9A&border_radius=10" alt="Top Languages" width="45%" />
-</p>
-
----
-
 ## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji/assets/svg/1f4ac.svg" width="24" />　Anime Calendar
 
 <!-- 使用 GitHub Actions 生成的动漫主题贡献日历 -->
