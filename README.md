@@ -29,9 +29,9 @@
 <p>
   <img src="https://img.shields.io/badge/HTML5-FF6B9A?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-FF9F68?style=for-the-badge&logo=css&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-FFD166?style=for-the-badge&logo=JavaScript" />
-  <img src="https://img.shields.io/badge/VueJS-4ECDC4?style=for-the-badge&logo=vuedotjs" />
-  <img src="https://img.shields.io/badge/astro-9575CD?style=for-the-badge&logo=astro" />
+  <img src="https://img.shields.io/badge/JavaScript-888888?style=for-the-badge&logo=JavaScript" />
+  <img src="https://img.shields.io/badge/VueJS-123123?style=for-the-badge&logo=vuedotjs" />
+  <img src="https://img.shields.io/badge/astro-345345?style=for-the-badge&logo=astro" />
   <img src="https://img.shields.io/badge/next.js-1A535C?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 </p>
 
@@ -57,12 +57,12 @@
 ### <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji/assets/svg/1f9ea.svg" width="24" />　Testing & Build
 
 <p>
-  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack" />
-  <img src="https://img.shields.io/badge/Rollup-EC4A3F?style=for-the-badge&logo=rollupdotjs" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite" />
-  <img src="https://img.shields.io/badge/babel-F9DC3E?style=for-the-badge&logo=babel" />
+  <img src="https://img.shields.io/badge/Webpack-333333?style=for-the-badge&logo=Webpack" />
+  <img src="https://img.shields.io/badge/Rollup-444444?style=for-the-badge&logo=rollupdotjs" />
+  <img src="https://img.shields.io/badge/Vite-555555?style=for-the-badge&logo=Vite" />
+  <img src="https://img.shields.io/badge/babel-666666?style=for-the-badge&logo=babel" />
   <img src="https://img.shields.io/badge/postcss-DD3A0A?style=for-the-badge&logo=postcss" />
-  <img src="https://img.shields.io/badge/vitest-6E9F18?style=for-the-badge&logo=vitest" />
+  <img src="https://img.shields.io/badge/vitest-777777?style=for-the-badge&logo=vitest" />
   <img src="https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
 </p>
 
