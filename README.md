@@ -14,6 +14,7 @@
 
 ## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji/assets/svg/1f4da.svg" width="24" />　About Me
 
+
 - 🌸 Anime culture devotee who channels passion into creating anime and games. 
 - 🌧️ Loneliness is my compass  
 - ❤️ A developer navigating through code storms alone  
@@ -126,9 +127,22 @@
 
 ## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji/assets/svg/1f4dd.svg" width="24" />　Anime Sayings
 
-> "我相信，动漫是连接人与人内心的桥梁。"  
-> "コードは詩であり、アニメは魂である"  
-> "在二次元的世界里，我们都是主角✨"
+
+<p style="background: rgba(255, 182, 193, 0.2); padding: 20px; border-radius: 15px; border-left: 4px solid #FF69B4;">
+"我相信，动漫是连接人与人内心的桥梁。" 
+</p>
+ 
+<p style="background: rgba(255, 182, 193, 0.2); padding: 20px; border-radius: 15px; border-left: 4px solid #FF69B4;">
+"コードは詩であり、アニメは魂である"  
+</p>
+
+<p style="background: rgba(255, 182, 193, 0.2); padding: 20px; border-radius: 15px; border-left: 4px solid #FF69B4;">
+"在二次元的世界里，我们都是主角✨" 
+</p>
+
+ 
+
+
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=trueLoving&label=Profile+Views&color=FF6B9A&style=flat-square" alt="Profile Views" />
