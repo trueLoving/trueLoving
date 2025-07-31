@@ -12,21 +12,20 @@
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji/assets/svg/1f4da.svg" width="24" />　About Me
+## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji/assets/svg/1f4da.svg" width="24" />　 About Me
 
-
-- 🌸 Anime culture devotee who channels passion into creating anime and games. 
-- 🌧️ Loneliness is my compass  
-- ❤️ A developer navigating through code storms alone  
-- 🎯 Currently focused on: **Rust**,**Web3**,**AI** 
-- 🎨 Fun fact: I create pixel art! ✨  
-
+- 🌸 Anime culture devotee who channels passion into creating anime and games.
+- 🌧️ Loneliness is my compass
+- ❤️ A developer navigating through code storms alone
+- 🎯 Currently focused on: **Rust**,**Web3**,**AI**
+- 🎨 Fun fact: I create pixel art! ✨
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji/assets/svg/2699.svg" width="24" alt="Gear" />　Tech Stack
+## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji/assets/svg/2699.svg" width="24" alt="Gear" />　 Tech Stack
 
-###  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji/assets/svg/1f5a5.svg" width="24" />　FrontEnd
+### <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji/assets/svg/1f5a5.svg" width="24" />　 FrontEnd
+
 <p>
   <img src="https://img.shields.io/badge/HTML5-FF6B9A?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-FF9F68?style=for-the-badge&logo=css&logoColor=white" />
@@ -36,7 +35,8 @@
   <img src="https://img.shields.io/badge/next.js-1A535C?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 </p>
 
-###  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji/assets/svg/1f310.svg" width="24" />　Backend
+### <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji/assets/svg/1f310.svg" width="24" />　 Backend
+
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Rust-F74D00?style=for-the-badge&logo=rust&logoColor=white" />
@@ -47,7 +47,8 @@
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-### ️ <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji/assets/svg/1f6e0.svg" width="24" />　Tools & Platforms
+### ️ <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji/assets/svg/1f6e0.svg" width="24" />　 Tools & Platforms
+
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
@@ -55,7 +56,7 @@
   <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-### <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji/assets/svg/1f9ea.svg" width="24" />　Testing & Build
+### <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji/assets/svg/1f9ea.svg" width="24" />　 Testing & Build
 
 <p>
   <img src="https://img.shields.io/badge/Webpack-333333?style=for-the-badge&logo=Webpack" />
@@ -67,26 +68,26 @@
   <img src="https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
 </p>
 
-
 ---
-<!-- 
+
+<!--
 ## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji/assets/svg/1f4e6.svg" width="24" />　Projects
 
 ### 1. [Anime Community Platform](https://github.com/trueLoving/anime-community)
-> Vue.js + Node.js 开发的动漫爱好者社交平台  
+> Vue.js + Node.js 开发的动漫爱好者社交平台
 > ![Stars](https://img.shields.io/github/stars/trueLoving/anime-community?style=flat-square&color=FF6B9A) ![Last Commit](https://img.shields.io/github/last-commit/trueLoving/anime-community?style=flat-square)
 
 ### 2. [Pixel Art Generator](https://github.com/trueLoving/pixel-art-generator)
-> 将图片转换为像素画风格的 Python 工具  
+> 将图片转换为像素画风格的 Python 工具
 > ![Stars](https://img.shields.io/github/stars/trueLoving/pixel-art-generator?style=flat-square&color=FF9F68)
 
 ### 3. [Vtuber Model Creator](https://github.com/trueLoving/vtuber-model-creator)
-> 使用 Three.js 的网页版 Vtuber 模型编辑器  
+> 使用 Three.js 的网页版 Vtuber 模型编辑器
 > ![Stars](https://img.shields.io/github/stars/trueLoving/vtuber-model-creator?style=flat-square&color=FFD166)
 
 --- -->
 
-## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji/assets/svg/1f4ac.svg" width="24" />　Anime Calendar
+## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji/assets/svg/1f4ac.svg" width="24" />　 Anime Calendar
 
 <!-- 使用 GitHub Actions 生成的动漫主题贡献日历 -->
 <p align="center">
@@ -94,7 +95,8 @@
 </p>
 
 ---
-<!-- 
+
+<!--
 ## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji/assets/svg/1f3a8.svg" width="24" />　作品展示
 
 ### 像素画作品
@@ -103,7 +105,7 @@
   <img src="https://raw.githubusercontent.com/trueLoving/pixel-art/main/works/genshin-qiqi.png" width="150" alt="Genshin Qiqi" />
   <img src="https://raw.githubusercontent.com/trueLoving/pixel-art/main/works/evangelion-unit-01.png" width="150" alt="Evangelion" />
 </p> -->
-<!-- 
+<!--
 ### Live2D 看板娘
 <p align="center">
   <a href="https://trueLoving.github.io/live2d-showcase" target="_blank">
@@ -115,18 +117,14 @@
 
 --- -->
 
-## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji/assets/svg/260e.svg" width="24" />　Contact
+## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji/assets/svg/260e.svg" width="24" />　 Contact
 
-<p>
-  <a>
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+
+- ✉️ **Email**: starsky.zhanglinjie@gmail.com
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji/assets/svg/1f4dd.svg" width="24" />　Anime Sayings
-
+## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji/assets/svg/1f4dd.svg" width="24" />　 Anime Sayings
 
 <p style="background: rgba(255, 182, 193, 0.2); padding: 20px; border-radius: 15px; border-left: 4px solid #FF69B4;">
 "我相信，动漫是连接人与人内心的桥梁。" 
@@ -139,10 +137,6 @@
 <p style="background: rgba(255, 182, 193, 0.2); padding: 20px; border-radius: 15px; border-left: 4px solid #FF69B4;">
 "在二次元的世界里，我们都是主角✨" 
 </p>
-
- 
-
-
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=trueLoving&label=Profile+Views&color=FF6B9A&style=flat-square" alt="Profile Views" />
