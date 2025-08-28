@@ -38,7 +38,7 @@
 ---
 
 <!-- 🎪 About Me & Anime Character 整合区域 -->
-## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji/assets/svg/1f4da.svg" width="24" />　 About Me & Anime Character
+## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji/assets/svg/1f4da.svg" width="24" />　 Me & Anime
 
 ### **Personal Introduction**
 
@@ -171,10 +171,8 @@ SPD: ████████████████████ 100% (Learning
 
 ---
 
-<p center="true">
 🌸 **Anime is not just entertainment, it's a way of life!** 🌸  
 *Thanks for visiting my anime developer profile!*
-</p>
 
 ---
 
